@@ -1,4 +1,4 @@
-# Portfolio Website
+# My Portfolio Website
 
 This website was built using HTML, CSS, and some Javascript. I use Microsoft's **Live Preview** extension in Visual Studio Code run and develop the website locally. Use whichever server you feel comfortable using.
 
@@ -12,3 +12,8 @@ This website uses **TailwindCSS** to build the CSS. You will need to have **NPM*
 4. Open the **input.css** file and add `@import "tailwindcss";` on the first line then save and close.
 5. Run `npm install` to install everything in the **package.json**
 6. Run `npx @tailwindcss/cli -i ./css/input.css -o ./css/main.css --watch` to have **TailwindCSS CLI** continuosly check any class change in the HTML file and update **main.css**
+
+## Resources
+
+- **[Tailwind CSS Docs](https://tailwindcss.com/docs/installation/using-vite)**
+- **[Alpine.js](https://alpinejs.dev/start-here)**
